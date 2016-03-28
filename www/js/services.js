@@ -6,4 +6,5 @@ angular.module('fodo.services', [])
 			name: 'Ganganagar, Bangalore'
 		}
 	};
+	
 });
