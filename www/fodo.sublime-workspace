@@ -1,0 +1,1082 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"img"
+			],
+			[
+				"chat",
+				"chat_name〔variable〕"
+			],
+			[
+				"state",
+				"$stateParams〔argument〕"
+			],
+			[
+				"show",
+				"showChats"
+			],
+			[
+				"hide",
+				"hideSheet"
+			],
+			[
+				"cordova",
+				"$cordovaFile〔argument〕"
+			],
+			[
+				"change",
+				"changeAvatarModal"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"host",
+				"hostDetails"
+			],
+			[
+				"dis",
+				"distArr"
+			],
+			[
+				"dist",
+				"distance〔variable〕"
+			],
+			[
+				"user",
+				"userFeed"
+			],
+			[
+				"rsvp",
+				"rsvpArr"
+			],
+			[
+				"rs",
+				"rsvpdId"
+			],
+			[
+				"rsvpd",
+				"rsvpdId〔variable〕"
+			],
+			[
+				"inde",
+				"indexOfGame"
+			],
+			[
+				"game",
+				"gameId"
+			],
+			[
+				"rsv",
+				"rsvpd"
+			],
+			[
+				"resp",
+				"respObj〔variable〕"
+			],
+			[
+				"contain",
+				"containsRsvp"
+			],
+			[
+				"conta",
+				"containsRsvp"
+			],
+			[
+				"frie",
+				"friends〔variable〕"
+			],
+			[
+				"cookie",
+				"cookieObj〔variable〕"
+			],
+			[
+				"loca",
+				"localObj"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"players",
+				"playersRsvpd"
+			],
+			[
+				"pla",
+				"playersRsvpd"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"he",
+				"max-height"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"text",
+				"text-justify"
+			],
+			[
+				"initi",
+				"initialized"
+			],
+			[
+				"ng",
+				"ng-if=〔attribute〕"
+			],
+			[
+				"sho",
+				"showEventModal"
+			],
+			[
+				"update",
+				"updateRsvpd"
+			],
+			[
+				"req",
+				"reqBody"
+			],
+			[
+				"games",
+				"gamesFeed〔argument〕"
+			],
+			[
+				"gam",
+				"gamesFeeds〔variable〕"
+			],
+			[
+				"defer",
+				"defer1〔variable〕"
+			],
+			[
+				"if",
+				"ifCalc"
+			],
+			[
+				"defe",
+				"defer1〔variable〕"
+			],
+			[
+				"home",
+				"homeLocation"
+			],
+			[
+				"auth",
+				"authentication〔argument〕"
+			],
+			[
+				"homeL",
+				"homeLocationObj"
+			],
+			[
+				"hom",
+				"homeLocationObj〔variable〕"
+			],
+			[
+				"sear",
+				"searchFilter"
+			],
+			[
+				"sea",
+				"searchFilter"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"close",
+				"closeLoc"
+			],
+			[
+				"aut",
+				"authentication〔argument〕"
+			],
+			[
+				"date",
+				"dateObj〔variable〕"
+			],
+			[
+				"hos",
+				"hostDetails"
+			],
+			[
+				"location",
+				"locationChanged"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"init",
+				"initMap"
+			],
+			[
+				"map",
+				"mapDetails"
+			],
+			[
+				"ma",
+				"mapDetails"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"registe",
+				"registerModal"
+			],
+			[
+				"lights",
+				"lightskyblue"
+			],
+			[
+				"foll",
+				"follows"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"contac",
+				"contactlist"
+			],
+			[
+				"body",
+				"bodyParser〔variable〕"
+			],
+			[
+				"per",
+				"person3〔variable〕"
+			],
+			[
+				"A",
+				"AppCtrl"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"scrip",
+				"scriptsArray〔variable〕"
+			],
+			[
+				"m",
+				"mileData"
+			],
+			[
+				"mi",
+				"mileCompleted"
+			],
+			[
+				"no",
+				"noOfMile"
+			],
+			[
+				"mile",
+				"mileData〔variable〕"
+			],
+			[
+				"mil",
+				"mileCompleted"
+			],
+			[
+				"miles",
+				"milestones"
+			],
+			[
+				"Transa",
+				"Transactions〔variable〕"
+			],
+			[
+				"pa",
+				"paypal"
+			],
+			[
+				"transa",
+				"transactions"
+			],
+			[
+				"paypa",
+				"payPalTran〔argument〕"
+			],
+			[
+				"camp",
+				"campaignID〔variable〕"
+			],
+			[
+				"cur",
+				"curStage"
+			],
+			[
+				"sp",
+				"sponsorer"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"pro",
+				"productDesc"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"ca",
+				"campName"
+			],
+			[
+				"ret",
+				"retUrl"
+			],
+			[
+				"campa",
+				"campaignId"
+			],
+			[
+				"set",
+				"setCampaignId"
+			],
+			[
+				"campaign",
+				"campaignButtons"
+			],
+			[
+				"Miles",
+				"MilestoneC〔variable〕"
+			],
+			[
+				"upda",
+				"updateCampaigns〔function〕"
+			],
+			[
+				"milestones",
+				"milestonesArray〔variable〕"
+			],
+			[
+				"prod",
+				"product〔argument〕"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"men",
+				"menuReady"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"project",
+				"projectStartDateObj"
+			],
+			[
+				"bidd",
+				"biddingOpenDateObj"
+			],
+			[
+				"bid",
+				"biddingOpenDate〔variable〕"
+			],
+			[
+				"proje",
+				"projectStartDateObj"
+			],
+			[
+				"bidding",
+				"biddingCloseDateObj"
+			],
+			[
+				"projectFin",
+				"projectFinishDateObj"
+			],
+			[
+				"projectStart",
+				"projectStartDateObj"
+			],
+			[
+				"curr",
+				"currentDate"
+			],
+			[
+				"biddingO",
+				"biddingOpenDateObj"
+			],
+			[
+				"projectS",
+				"projectStartDateObj"
+			],
+			[
+				"projectF",
+				"projectFinishDateObj"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"git ",
+				"Git: Pull"
+			],
+			[
+				"git cust",
+				"Git: Custom Command"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"orig",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"origami",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"termina",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Vinay/Documents/GitHub/fodo",
+		"/C/Users/Vinay/Documents/GitHub/fodo/www"
+	],
+	"file_history":
+	[
+		"/C/Users/Vinay/Documents/GitHub/IOINIC2/RealEstateAppDemo/www/build/css/custom.css",
+		"/C/Users/Vinay/Documents/GitHub/IOINIC2/RealEstateAppDemo/app/pages/home/home.html",
+		"/C/Users/Vinay/Documents/GitHub/IOINIC2/RealEstateAppDemo/app/pages/home/home.js",
+		"/C/Users/Vinay/Documents/GitHub/IOINIC2/RealEstateAppDemo/ionic.config.js",
+		"/C/Users/Vinay/Documents/GitHub/IOINIC2/RealEstateAppDemo/ionic.config.json",
+		"/C/Users/Vinay/Documents/GitHub/IOINIC2/RealEstateAppDemo/app/pages/home/home.scss",
+		"/C/Users/Vinay/Documents/GitHub/IOINIC2/RealEstateAppDemo/www/build/css/app.ios.css",
+		"/C/Users/Vinay/Documents/GitHub/IOINIC2/RealEstateAppDemo/www/build/css/app.md.css",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/css/style.css",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/tabs/friends.html",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/SocketService.js",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/controllers.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/services.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/ChatHomeController.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/tabs/home.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/tabs/search.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/eventDetails.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/tabs/event.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/home.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/login.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/signUp.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/tabs/chat-detail.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/tabs/host.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/directions.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/homeLocation.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/location.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/Profile.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selectContact.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selectDate.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selectFoot.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selectPos1.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selectPos2.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selectTeam.html",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selRepeat.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selTimeEnd.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/selTimeStart.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/templates/modals/userProfile.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/app.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/filters.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/searchCtrl.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/RoomController.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/modalCtrl.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/loginCtrl.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/hostController.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/homeController.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers/ChatsSelectController.js",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/footballPickup.sublime-project",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/index.html",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/lib/ionic/css/ionic.css",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/controllers.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/js/temp.txt",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/lib/ionic-place-tools/ion-place-autocomplete.js",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/lib/ionic-place-tools/ion-place-autocomplete.css",
+		"/C/Users/Vinay/Documents/GitHub/football-pickup/football-pickup/www/lib/ion-google-place/ion-google-place.js",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Vinay/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/E/contactlistapp/twitterLike/www/index.html",
+		"/E/TwitterLike v1/twitterLike/www/index.html",
+		"/E/TwitterLike v1/twitterLike/www/js/controllers.js",
+		"/E/TwitterLike v1/twitterLike/www/js/app.js",
+		"/E/TwitterLike v1/twitterLike/www/templates/home.html",
+		"/E/TwitterLike v1/twitterLike/www/templates/register.html",
+		"/E/TwitterLike v1/twitterLike/www/templates/login.html",
+		"/E/TwitterLike v1/twitterLike/www/css/style.css",
+		"/E/TwitterLike v1/twitterLike/www/templates/menu.html",
+		"/E/TwitterLike v1/AirtelComplaint.txt",
+		"/E/TwitterLike v1/twitterLike/www/templates/playlist.html",
+		"/E/TwitterLike v1/twitterLike/www/templates/browse.html",
+		"/E/TwitterLike v1/twitterLike/www/templates/playlists.html",
+		"/E/TwitterLike v1/twitterLike/www/templates/search.html",
+		"/E/TwitterLike v1/twitterLike/www/css/ionicons.css",
+		"/E/TwitterLike v1/twitterLike/www/lib/ionic/js/ionic.js",
+		"/E/TwitterLike v1/server.js",
+		"/E/TwitterLike v1/twitterLike/ionicons-2.0.1/readme.md",
+		"/E/contactlistapp/public/Controllers/AppCtrl.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/public/assets/js/main.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/home/home.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/layouts/basic.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/home/landingMain.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/public/assets/css/custom.css",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/home/landingSide.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/home/home.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/config/router.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/server/config/security.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/.meteor/packages",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/config/seo.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/common/head.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/header/header.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/common/footer.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKartNew/FoodKartApp/client/views/common/navbar.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/views/common/leftSideMenu.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/routes/mainRoutes.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/views/home/home.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/lib/plugins/owl/init.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/lib/plugins/owl/owl.carousel.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/lib/plugins/owl/owl.carousel.min.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/public/assets/css/owl.transitions.css",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/public/assets/js/main.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/public/assets/plugins/owl/owl.carousel.css",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/public/assets/plugins/owl/owl.carousel.min.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/public/assets/plugins/owl/owl.carousel.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/views/home/home.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/views/common/leftSideMenu.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/views/layouts/basic.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/Templates/Charlotte- Cafe/HTML/index.html",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/Templates/Charlotte- Cafe/Documentation/documentation.pdf",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/lib/init.js",
+		"/E/Range Corporation/3. Codebases/Newer Codebase/Range_Corporation/JollyAnyWebsite/client/views/home/home.js",
+		"/E/Range Corporation/3. Codebases/Newer Codebase/Range_Corporation/JollyAnyWebsite/client/views/home/blogWrapper.html",
+		"/E/Range Corporation/3. Codebases/Newer Codebase/Range_Corporation/JollyAnyWebsite/client/views/home/FullWidthBanner.html",
+		"/E/Range Corporation/3. Codebases/Newer Codebase/Range_Corporation/JollyAnyWebsite/client/views/layouts/basic.html",
+		"/E/Range Corporation/3. Codebases/Newer Codebase/Range_Corporation/JollyAnyWebsite/client/views/common/footer.html",
+		"/E/Range Corporation/3. Codebases/Newer Codebase/Range_Corporation/JollyAnyWebsite/lib/collections/products.js",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/.meteor/packages",
+		"/C/Users/Vinay/Documents/GitHub/FoodKart/FoodKart/client/views/layouts/slim.html",
+		"/C/Users/Vinay/Documents/GitHub/KwarkeeMeteor/public/css/default.css",
+		"/C/Users/Vinay/Documents/GitHub/KwarkeeMeteor/client/views/pages/activities.html",
+		"/C/Users/Vinay/Documents/GitHub/KwarkeeMeteor/client/views/pages/campaign/myCampaigns.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Vinay\\Documents\\GitHub\\football-pickup\\football-pickup\\www\\",
+			"C:\\Users\\Vinay\\Documents\\GitHub\\football-pickup\\www",
+			"C:\\Users\\Vinay\\Documents\\GitHub\\football-pickup",
+			"E:\\TwitterLike v1\\twitterLike\\www\\lib\\ionic",
+			"<project>",
+			"C:\\Users\\Vinay\\Documents\\GitHub\\FoodKart",
+			"C:\\Users\\Vinay\\Documents\\GitHub\\KwarkeeMeteor\\public",
+			"C:\\Users\\Vinay\\Documents\\GitHub\\KwarkeeMeteor\\public\\css",
+			"C:\\Users\\Vinay\\Documents\\GitHub\\KwarkeeMeteor\\client\\views\\pages\\campaign",
+			"C:\\Users\\Vinay\\Documents\\GitHub\\KwarkeeMeteor\\client\\views",
+			"<project>",
+			"E:\\Range Corporation\\3. Codebases\\Newer Codebase\\Range_Corporation\\JollyAnyWebsite",
+			"<project>",
+			"E:\\Range Corporation\\3. Codebases\\Range_Corporation\\Website"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"goto",
+			"events",
+			"$state.go('home')",
+			"closeOthersProfile()",
+			"STATS",
+			"feed",
+			"home-search",
+			"Encrypt",
+			"feed",
+			"calcR",
+			"set",
+			"calcR",
+			"homelocation",
+			"52.1.227",
+			"51.1.227",
+			"Angular",
+			"tweets2",
+			"AM",
+			"hrs",
+			"date",
+			"tab",
+			"locationChanged",
+			"setWidth",
+			"new EventEmitter();",
+			"createIT main javascript file.",
+			"owl-pagination",
+			"owl-controls clickable",
+			"card",
+			"li",
+			"hover",
+			"172px",
+			".navbar-fixed-bottom .dropdown .dropdown-menu",
+			"@media (min-width: 768px)",
+			".dropdown-menu",
+			"navbar-right",
+			"navbar-right .dropdown-menu",
+			".navbar-right .dropdown-menu {\n    right: 0;",
+			"card",
+			"background-color",
+			"<span class=\"loading grayc\">Loading....</span>",
+			"Session.set",
+			"{\n      \"overlay_scroll_bars\": \"enabled\",\n      \"line_padding_top\": 3,\n      \"line_padding_bottom\": 3,\n      // On retina Mac\n      \"font_options\": [ \"gray_antialias\" ],\n      \"always_show_minimap_viewport\": true,\n      \"bold_folder_labels\": true,\n      // Highlight active indent\n      \"indent_guide_options\": [ \"draw_normal\", \"draw_active\" ]\n  }\n  ",
+			"curStage === 1",
+			"Bids",
+			"milestoneCreated",
+			"projectSuggestedAmount",
+			"winner",
+			"$set:{curStage: 1}",
+			"forbidClientAccountCreation: false",
+			"forbidClientAccountCreation",
+			"login-dropdown-list",
+			"loginButtons",
+			"Meteor.App.NAME",
+			"superb design layout",
+			"revslider-initialised",
+			"banner",
+			"window.setTimeout",
+			"window.clearTimeout(timeout)",
+			"timeout",
+			"setTimeout",
+			"');\n",
+			"}\n",
+			"clearfix container",
+			"padding-right: 15px;",
+			"^.container",
+			".container",
+			"padding-right: 15px;",
+			"width: 750px;",
+			".container {   width: 750px; }",
+			".container",
+			"bodyContainer",
+			"demos",
+			".slider-shadow",
+			"demos",
+			"a.navbar-brand",
+			".user-index .banner-block .tabbable",
+			"Date projectStartDateObj = new Date(projectStartDate);",
+			"console.log('Validating the inputs on: '+currentDate);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"setTimeout",
+			"clearTimeout(timeout)",
+			"/demos"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								727,
+								731
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fodo.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"frie",
+				"templates\\tabs\\friends.html"
+			],
+			[
+				"app",
+				"football-pickup\\www\\js\\app.js"
+			],
+			[
+				"host",
+				"football-pickup\\www\\templates\\tabs\\host.html"
+			],
+			[
+				"contr",
+				"football-pickup\\www\\js\\controllers.js"
+			],
+			[
+				"de",
+				"public\\css\\default.css"
+			],
+			[
+				"landing",
+				"client\\views\\landing\\landingpage.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 225.0,
+		"last_filter": "addFriend",
+		"selected_items":
+		[
+			[
+				"addFriend",
+				".addFriend = function(id, username)"
+			],
+			[
+				"setSer",
+				"setServices: function(keyName, value)"
+			],
+			[
+				"homeCont",
+				"function HomeController($scope, $state, localStorageService, SocketService, authentication, moment, $ionicScrollDelegate, Chats, $ionicModal)"
+			]
+		],
+		"width": 1331.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

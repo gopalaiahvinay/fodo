@@ -1,0 +1,48 @@
+/* Empty. Add your own CSS if you like */
+.headerBarHeight{
+	height: 70px !important;
+}
+
+.searchBar{
+	width: 98% !important;
+	height: 30px;
+	margin-top: auto !important;
+	margin-bottom: auto !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.headerLogo{
+	width: 40px !important;
+	height: 40px !important;
+}
+.logo{
+	background-image: url("../img/fodo_logo_searchbar.png");
+    background-repeat: no-repeat !important;
+    width: 60px !important;
+    height: 60px !important;
+    position: relative!important;
+    top: -7px!important;
+    left: -16px!important;
+}
+.searchInput{
+	position: relative!important;
+	top: -7px!important;
+	left: -24px!important;
+	font-size: 20px!important;
+	padding-left: 2px !important;
+}
+.listSearchInput{
+	width: 100%!important;
+    margin-top: 5px!important;
+    height: 50px!important;
+}
+/* Vinay CSS Change: Margin top 44px -> 27 px ionic.css:5037*/
+.customTabs{
+	position: absolute !important;
+	top: 28px !important;
+}
+.customImg{
+	width: 100% !important;
+	height: 150px !important;
+}

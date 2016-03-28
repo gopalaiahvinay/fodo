@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"path": "./www"
+		},
+		{
+			"path": "./www/css"
+		},
+		{
+			"path": "./www/js"
+		},
+		{
+			"path": "./www/html"
+		},
+		{
+			"path": "."
+		},
+
+
+	]
+}
