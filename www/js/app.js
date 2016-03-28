@@ -35,7 +35,7 @@ angular.module('fodo', ['ionic','fodo.controllers','ngCordova'])
 
             views: {
                 'home-local': {
-                    templateUrl: 'html/tab_local.html'
+                    templateUrl: 'html/tab_Local.html'
                 }
             }
       });
