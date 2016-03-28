@@ -34,7 +34,7 @@ angular.module('fodo.controllers', [])
                 marker = new google.maps.Marker({
                     position: new google.maps.LatLng(locations[i][1], locations[i][2]),
                     map: map,
-                    icon: 'img/customMarker.png'
+                    icon: 'img/customMarker_mod.png'
                 });
 
                 google.maps.event.addListener(marker, 'click', (function(marker, i) {
